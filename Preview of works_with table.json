@@ -1,0 +1,47 @@
+[
+  {
+    "emp_id": 102,
+    "client_id": 401,
+    "total_sales": 65000
+  },
+  {
+    "emp_id": 102,
+    "client_id": 406,
+    "total_sales": 55000
+  },
+  {
+    "emp_id": 105,
+    "client_id": 400,
+    "total_sales": 55000
+  },
+  {
+    "emp_id": 105,
+    "client_id": 404,
+    "total_sales": 55000
+  },
+  {
+    "emp_id": 105,
+    "client_id": 406,
+    "total_sales": 55000
+  },
+  {
+    "emp_id": 107,
+    "client_id": 403,
+    "total_sales": 78000
+  },
+  {
+    "emp_id": 107,
+    "client_id": 405,
+    "total_sales": 55000
+  },
+  {
+    "emp_id": 108,
+    "client_id": 402,
+    "total_sales": 58000
+  },
+  {
+    "emp_id": 108,
+    "client_id": 403,
+    "total_sales": 62000
+  }
+]
