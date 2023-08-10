@@ -1,0 +1,20 @@
+[
+  {
+    "branch_id": 1,
+    "branch_name": "Corporate",
+    "mgr_id": 100,
+    "mgr_start_date": "2006-01-01"
+  },
+  {
+    "branch_id": 2,
+    "branch_name": "Scrant",
+    "mgr_id": 102,
+    "mgr_start_date": "2006-01-01"
+  },
+  {
+    "branch_id": 3,
+    "branch_name": "Stamp",
+    "mgr_id": 106,
+    "mgr_start_date": "2006-01-01"
+  }
+]
