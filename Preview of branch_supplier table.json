@@ -1,0 +1,37 @@
+[
+  {
+    "branch_id": 2,
+    "supplier_name": "HAMMER MILL",
+    "supply_type": "PAPER"
+  },
+  {
+    "branch_id": 2,
+    "supplier_name": "PENCİL CO",
+    "supply_type": "Pencil"
+  },
+  {
+    "branch_id": 2,
+    "supplier_name": "Uni_ball",
+    "supply_type": "INK"
+  },
+  {
+    "branch_id": 3,
+    "supplier_name": "HAMMER MILL",
+    "supply_type": "PAPER"
+  },
+  {
+    "branch_id": 3,
+    "supplier_name": "Patriot Paper",
+    "supply_type": "PAPER"
+  },
+  {
+    "branch_id": 3,
+    "supplier_name": "Stamp Lables",
+    "supply_type": "Pencil"
+  },
+  {
+    "branch_id": 3,
+    "supplier_name": "Uni_ball",
+    "supply_type": "Ink"
+  }
+]

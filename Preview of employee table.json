@@ -1,0 +1,92 @@
+[
+  {
+    "emp_id": 100,
+    "first_name": "David",
+    "last_name": "Wallace",
+    "birth_day": "1999-11-11",
+    "sex": "M",
+    "salary": 25000,
+    "super_id": null,
+    "branch_id": 1
+  },
+  {
+    "emp_id": 101,
+    "first_name": "jane",
+    "last_name": "Levinson",
+    "birth_day": "1999-11-11",
+    "sex": "F",
+    "salary": 25000,
+    "super_id": 100,
+    "branch_id": 1
+  },
+  {
+    "emp_id": 102,
+    "first_name": "Michael",
+    "last_name": "Scott",
+    "birth_day": "1999-11-11",
+    "sex": "F",
+    "salary": 25000,
+    "super_id": 100,
+    "branch_id": 2
+  },
+  {
+    "emp_id": 103,
+    "first_name": "Angela",
+    "last_name": "Martin",
+    "birth_day": "1999-11-11",
+    "sex": "F",
+    "salary": 25000,
+    "super_id": 102,
+    "branch_id": 2
+  },
+  {
+    "emp_id": 104,
+    "first_name": "Kelly",
+    "last_name": "Kapoor",
+    "birth_day": "1999-11-11",
+    "sex": "F",
+    "salary": 25000,
+    "super_id": 102,
+    "branch_id": 2
+  },
+  {
+    "emp_id": 105,
+    "first_name": "Stanley",
+    "last_name": "Hudson",
+    "birth_day": "1999-11-11",
+    "sex": "M",
+    "salary": 25000,
+    "super_id": 102,
+    "branch_id": 2
+  },
+  {
+    "emp_id": 106,
+    "first_name": "Josh",
+    "last_name": "Porter",
+    "birth_day": "1999-11-11",
+    "sex": "M",
+    "salary": 25000,
+    "super_id": 100,
+    "branch_id": 3
+  },
+  {
+    "emp_id": 107,
+    "first_name": "Andy",
+    "last_name": "Brnard",
+    "birth_day": "1999-11-11",
+    "sex": "M",
+    "salary": 25000,
+    "super_id": 106,
+    "branch_id": 3
+  },
+  {
+    "emp_id": 108,
+    "first_name": "Jim",
+    "last_name": "Harper",
+    "birth_day": "1999-11-11",
+    "sex": "M",
+    "salary": 25000,
+    "super_id": 106,
+    "branch_id": 3
+  }
+]

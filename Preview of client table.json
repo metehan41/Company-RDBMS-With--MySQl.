@@ -1,0 +1,37 @@
+[
+  {
+    "client_id": 400,
+    "client_name": "D HighSchool",
+    "branch_id": 2
+  },
+  {
+    "client_id": 401,
+    "client_name": "L Country",
+    "branch_id": 2
+  },
+  {
+    "client_id": 402,
+    "client_name": "FEDEX",
+    "branch_id": 3
+  },
+  {
+    "client_id": 403,
+    "client_name": "Jon Law, LLC",
+    "branch_id": 3
+  },
+  {
+    "client_id": 404,
+    "client_name": "S Whitepages",
+    "branch_id": 2
+  },
+  {
+    "client_id": 405,
+    "client_name": "X NewsPaper",
+    "branch_id": 3
+  },
+  {
+    "client_id": 406,
+    "client_name": "FEDEX",
+    "branch_id": 2
+  }
+]
